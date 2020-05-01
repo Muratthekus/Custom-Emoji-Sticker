@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emoji_Mashup</string>
+    <string name="emojis">emojis</string>
+    <string name="head_folder">head</string>
+    <string name="mouth_folder">mouth</string>
+    <string name="eye_folder">eyes</string>
+    <string name="eyebrow_folder">eyebrow</string>
+
+</resources>

@@ -21,7 +21,7 @@ Application fetch images from assets folder and according to user decision combi
 - ViewModel
 - Job Intent Service
 
-###Architecture
+### Architecture
 > MVVM Architecture =Model + View +ViewModel
 
 
